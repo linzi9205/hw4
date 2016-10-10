@@ -1,0 +1,9 @@
+News things that learned:
+1. how to read resistors by different colors
+2. LED lights have two legs with different lengths indicating "+"&"-"
+
+
+Questions:
+1. Does everything that connected to the Arduino board confine to 5 Voltage as maximum input? 
+2. What's function of capacitor?
+3. In the "Knob" example, how can controlling the knob change the position of the servo motor? Is it because the value of currency changes?
